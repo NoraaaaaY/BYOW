@@ -9,12 +9,11 @@ Nora Yang
 ## Classes and Data Structures
 1. Point
    - stores the coordinates of each tile / box
-   - 
+   
 
 2. Room
-   - represents each room
-   - 
-   - should have something that stores all rooms - hashset?
+   
+   - should have something that stores all rooms - hashset
    - the inner tiles are floors and the outer tiles would be walls
 
 3. Hallway
@@ -25,12 +24,12 @@ Nora Yang
 
 4. MapGenerator
     - connect rooms and hallways
-    - 
+      
 
-5. 
+   
 
 ## Algorithms
 1. Generate random rooms. Each room is a HashSet of Points. 
-2. 
+   
 
 ## Persistence
